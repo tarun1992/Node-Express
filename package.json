@@ -10,6 +10,9 @@
   "author": "Tarun",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nom": "0.0.3",
+    "npm": "^5.8.0"
   }
 }
